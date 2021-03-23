@@ -1,11 +1,11 @@
 body
 {
-	background: blueviolet;
+	background: #ce4a4a;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: rgb(0, 26, 255);
+		background: white;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -21,17 +21,13 @@ body
 {
 	width: 60%;
 }
-#math
-{
-	width: 60%;
-}
 #word_display
 {
 	letter-spacing: 5px;
 }
 #output
 {
-background: pink;
+background: white;
 border-radius: 10px;
 border-top: 10px solid #AA4465;
 padding: 10px;
